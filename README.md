@@ -1,8 +1,10 @@
-# React + Vite
+# Describing the UI
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+React is a JavaScript library for rendering user interfaces (UI). UI is built from small units like buttons, text, and images. React lets you combine them into reusable, nestable components. From web sites to phone apps, everything on the screen can be broken down into components. In this Repo, I’ll learn to create, customize, and conditionally display React components. And I trying to solve some challenges and quiz.
 
-Currently, two official plugins are available:
+## Key topic
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- Components
+- JSX
+- Props
+- Element vs Components
